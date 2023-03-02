@@ -1,7 +1,7 @@
 <div align='center'><p><img src="https://img.shields.io/badge/total-3-blue?style=flat-square" alt="Total Events">  <img src="https://img.shields.io/badge/conferences-2-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-1-yellow?style=flat-square" alt="Total Podcasts">   </p>
 </div>
   <p align='center'><h1 align='center'>Davide Imola - Public Speaking</h1></p>
-<p align='center'>DevOps Engineer @ <a href='https://redcarbon.ai'>RedCarbon</a>, Community Manager @ <a href='https://schrodinger-hat.it'>Schr&ouml;dinger Hat</a>, Open Source Lover</p> <p align='center'><a href='https://twitter.com/DavideImola'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/DavideImola?style=social'></a><a href='https://www.linkedin.com/in/davideimola'> <img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img width='600px' alt='Davide Imola' src='https://github.com/davideimola/public-speaking/blob/main/static/davideimola.png'></img></p>
+<p align='center'>DevOps Engineer @ <a href='https://redcarbon.ai'>RedCarbon</a>, Community Manager @ <a href='https://schrodinger-hat.it'>Schr&ouml;dinger Hat</a>, Open Source Lover</p> <p align='center'><a href='https://twitter.com/DavideImola'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/DavideImola?style=social'></a><a href='https://www.linkedin.com/in/davideimola'> <img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img width='600px' alt='Davide Imola' src='https://raw.githubusercontent.com/davideimola/public-speaking/main/static/davideimola.png'></img></p>
 
  - 👨🏻‍💻 DevOps Engineer @ [RedCarbon](https://redcarbon.ai)
  - 👥 Community Manager @ [Schr&ouml;dinger Hat](https://schrodinger-hat.it)
@@ -29,6 +29,6 @@
 
 
 
-*page updated on 2023-03-02T13:00:21.146Z*
+*page updated on 2023-03-02T13:07:23.216Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
