@@ -3,29 +3,24 @@
     "sourceDirectory": "pages"
   },
   "output": {
-    "markdownFile": "README-gigs.md"
+    "markdownFile": "README.md"
   },
   "preContent": [
     {
-      "raw": "<p align='center'><h1 align='center'>This will appear at the top of the generated README.md file</h1>"
+      "raw": "<p align='center'><h1 align='center'>Davide Imola - Public Speaking</h1></p>"
     },
     {
-      "raw": "<p align='center'>Let's add some badges! <p align='center'><a href='https://twitter.com/liran_tal'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a></p>"
+      "raw": "<p align='center'>DevOps Engineer <a href='https://redcarbon.ai'>RedCarbon</a>, Community Manager @ <a href='https://schrodinger-hat.it'>Schr&ouml;dinger Hat</a>, Open Source Lover</p> <p align='center'><a href='https://twitter.com/DavideImola'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/DavideImola?style=social'></a><a href='https://www.linkedin.com/in/davideimola'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img alt='Davide Imola' src='https://github.com/davideimola/public-speaking/blob/main/static/davideimola.png'></img></p>"
     },
     {
       "format": [
         {
           "ul": [
-            "In addition to raw HTML elements, you can use format sections",
-            "Using HTML elements to construct the output"
+            "👨🏻‍💻 DevOps Engineer @ [RedCarbon](https://redcarbon.ai)",
+            "👥 Community Manager @ [Schr&ouml;dinger Hat](https://schrodinger-hat.it)"
           ]
         }
       ]
-    }
-  ],
-  "postContent": [
-    {
-      "raw": "<p align='center'><h1 align='center'>This will appear at the bottom of the generated README.md file</h1>"
     }
   ]
 }

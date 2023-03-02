@@ -46,5 +46,5 @@ jobs:
           push-branch: 'main'
           commit-message: 'chore: updating README with new gigs and create HTML'
           files: README.md docs/
-          name: Liran Tal
-          email: liran.tal@gmail.com
+          name: Davide Imola
+          email: me@davideimola.com
