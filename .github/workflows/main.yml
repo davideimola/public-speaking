@@ -47,4 +47,4 @@ jobs:
           commit-message: 'chore: updating README with new gigs and create HTML'
           files: README.md docs/
           name: Davide Imola
-          email: me@davideimola.com
+          email: davide.imola@icloud.com
