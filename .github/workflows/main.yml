@@ -40,11 +40,10 @@ jobs:
         run: npx @11ty/eleventy
 
       - name: Push gigs into repository
-        uses: github-actions-x/commit@v2.9
+        uses: actions-x/commit@v6
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          push-branch: 'main'
-          commit-message: 'chore: updating README with new gigs and create HTML'
+          branch: 'main'
+          message: 'chore: updating README with new gigs and create HTML'
           files: README.md docs/
           name: Davide Imola
-          email: davide.imola@icloud.com
+          email: me@davideimola.com
