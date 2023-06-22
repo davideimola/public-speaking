@@ -105,3 +105,7 @@ dist
 
 # Snyk Code
 .dccache
+
+.DS_Store
+.idea
+.vscode
